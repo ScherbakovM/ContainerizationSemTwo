@@ -38,6 +38,8 @@
 ``lxc-start -n test123`` // запуск контейнера  
 ``lxc-attach -n test123`` // вход в контейнер  
 
+ командой ``free -m`` можем посмотреть информацию о текущем использовании памяти контейнером
+
 ![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/0be80125-3f81-420f-ad81-2b396175ab63)
 
 ### Контейнер запущен и работает 
@@ -55,6 +57,14 @@
 ![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/fb4c9197-282a-4c03-bafb-4a2826384313)
 
 __Сохраняем, выходим__
+
+__Запускаем контейнер заново__
+
+``lxc-start -n test123`` // запуск контейнера  
+``lxc-attach -n test123`` // вход в контейнер 
+
+
+![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/dc297199-4217-4f98-bb62-bb5d624c1719)
 
 
 
