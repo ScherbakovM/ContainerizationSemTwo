@@ -28,7 +28,8 @@
 
 ### Дожидаёмся сообщения об успешной устанвки 
 
-![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/85fb3581-65b6-408f-80f7-37e6012c3555)
+![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/acc18d74-18d8-4924-bd93-c2da8c2b2a3a)
+
 
 ### Переходим к запуску контейнера
  
