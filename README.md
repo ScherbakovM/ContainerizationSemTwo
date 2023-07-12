@@ -20,6 +20,7 @@
 
 ``lxc-create -n test123 -t ubuntu ``
 
-![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/b3344a19-d52d-4e61-b3f3-ccc6849611ac)
+![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/c8b65b11-c6cc-4e99-93d2-4d1ae409c0c1)
+
 
  
