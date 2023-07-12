@@ -28,7 +28,7 @@
 
 
 
-### Дожидаёмся сообщения об успешной устанвки 
+### Дожидаёмся сообщения об успешной устанвке
 
 ![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/acc18d74-18d8-4924-bd93-c2da8c2b2a3a)
 
