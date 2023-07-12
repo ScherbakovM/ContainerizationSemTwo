@@ -26,8 +26,11 @@
 
 ![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/fd8e95d7-429a-422e-94af-c8cc0c6f8bc4)
 
+### Дожидаёмся сообщения об успешной устанвки 
 
+![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/85fb3581-65b6-408f-80f7-37e6012c3555)
 
+### Переходим к запуску контейнера
  
 ``lxc-start -n test123`` // запуск контейнера  
 ``lxc-attach -n test123`` // вход в контейнер  
