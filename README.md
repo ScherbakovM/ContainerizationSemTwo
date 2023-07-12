@@ -48,7 +48,7 @@
 
 ``nano /var/lib/lxc/test123/config``
 
- в Container specific configuration дописываем строчку  
+ в __Container specific configuration__ дописываем строчку  
  
  ``lxc.cgroup2.memory.max = 256M``
 
