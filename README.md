@@ -24,7 +24,8 @@
 
 ``apt-get install lxc-templates``
 
-![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/221e2624-71da-498b-9904-ed0a7049461d)
+![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/ab061a47-40ac-44b4-a3ec-a9cf4f7fd1a4)
+
 
 
 ### Дожидаёмся сообщения об успешной устанвки 
