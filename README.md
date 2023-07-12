@@ -16,7 +16,7 @@
 
 ![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/52c0ad6c-b4c7-4112-8ec7-1998bd08f88e)
 
-### Создаём новый контейнер 
+### Создаём новый Linux Container 
 
 ``lxc-create -n test123 -t ubuntu ``
 
