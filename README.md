@@ -63,8 +63,8 @@ __Запускаем контейнер заново__
 ``lxc-start -n test123`` // запуск контейнера  
 ``lxc-attach -n test123`` // вход в контейнер 
 
+![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/1f23ef90-68d5-4594-b34e-5d424ddf576c)
 
-![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/dc297199-4217-4f98-bb62-bb5d624c1719)
 
 __Выводим информайцию по памяти контейнера__  
 ``free -m``
