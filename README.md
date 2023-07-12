@@ -72,5 +72,27 @@ __Выводим информайцию по памяти контейнера__
 ![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/864e6dbb-415a-41b4-b620-a30990910778)
 
 
+### Информация о контейнере
+
+``lxc-info -n test123``
+
+![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/f634d008-2bd3-432c-bcab-9075debda05c)
+
+
+### Автозапуск контейнера 
+
+Открываем конфиг нашего контейнера командой
+
+``nano /var/lib/lxc/test123/config``
+
+в __Container specific configuration__ дописываем строчку  
+
+![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/6a21b2fb-8766-42e1-a26b-b5953a2256d6)
+
+
+
+
+
+
 
 
