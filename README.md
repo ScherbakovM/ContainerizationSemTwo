@@ -66,5 +66,10 @@ __Запускаем контейнер заново__
 
 ![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/dc297199-4217-4f98-bb62-bb5d624c1719)
 
+Ограничение контейнера по памяти в 256МБ
+
+![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/864e6dbb-415a-41b4-b620-a30990910778)
+
+
 
 
