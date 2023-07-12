@@ -20,6 +20,10 @@
 
 ``lxc-create -n test123 -t ubuntu ``
 
+Если команда не запускается возможнго потребуется установить пакет с зависимостями для lxc 
+
+``apt-get install lxc-templates``
+
 ![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/c8b65b11-c6cc-4e99-93d2-4d1ae409c0c1)
 
 
