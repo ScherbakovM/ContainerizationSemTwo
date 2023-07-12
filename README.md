@@ -38,3 +38,20 @@
 ``lxc-start -n test123`` // запуск контейнера  
 ``lxc-attach -n test123`` // вход в контейнер  
 
+![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/0be80125-3f81-420f-ad81-2b396175ab63)
+
+### Контейнер запущен и работает 
+
+### Переходим к ограничению контейнера по памяти 
+
+Открываем конфиг нашего контейнера командой
+
+``nano /var/lib/lxc/test123/config``
+
+ в # Container specific configuration дописываем строчку  
+ ``lxc.cgroup2.memory.max = 256M``
+
+![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/fb4c9197-282a-4c03-bafb-4a2826384313)
+
+
+
