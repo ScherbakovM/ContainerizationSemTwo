@@ -28,9 +28,10 @@
 
 
 
-### Дожидаёмся сообщения об успешной устанвке
+### Дожидаёмся сообщения об успешной установке
 
-![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/acc18d74-18d8-4924-bd93-c2da8c2b2a3a)
+!![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/218b0d6a-4d2d-43ea-80d8-cd04cc492447)
+
 
 
 ### Переходим к запуску контейнера
