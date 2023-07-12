@@ -30,8 +30,7 @@
 
 ### Дожидаёмся сообщения об успешной установке
 
-!![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/218b0d6a-4d2d-43ea-80d8-cd04cc492447)
-
+![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/64991f10-f742-40cf-be58-4e2be9bdf941)
 
 
 ### Переходим к запуску контейнера
