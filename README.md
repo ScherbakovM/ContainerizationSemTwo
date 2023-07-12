@@ -29,6 +29,6 @@
 
 
  
-``lxc-start -n test123`` // запуск контейнера
-``lxc-attach -n test123`` // вход в контейнер
+``lxc-start -n test123`` // запуск контейнера  
+``lxc-attach -n test123`` // вход в контейнер  
 
