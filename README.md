@@ -82,12 +82,20 @@ __Выводим информайцию по памяти контейнера__
 ### Автозапуск контейнера 
 
 Открываем конфиг нашего контейнера командой
+по аналогии в __Container specific configuration__ дописываем строчку  
 
 ``nano /var/lib/lxc/test123/config``
 
-в __Container specific configuration__ дописываем строчку  
 
 ![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/6a21b2fb-8766-42e1-a26b-b5953a2256d6)
+
+
+перезагружаем систему и проверяем командой
+
+``lxc-info -n test123``
+
+![image](https://github.com/ScherbakovM/ContainerizationSemTwo/assets/109952823/2dcbf145-e326-4c62-8fe2-7738d0648831)
+
 
 
 
